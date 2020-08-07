@@ -450,12 +450,13 @@ nav{
 
 .portfolio-item-individual{
     padding: 0 2em 2em;
-    max-width: 1000px;
+    max-width: 650px;
     margin: 0 auto;
 }
 
 .portfolio-item-individual p{
-    max-width: 600px;
+    max-width: 500px;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
 }
