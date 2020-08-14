@@ -284,8 +284,9 @@ nav{
 
 .my-services{
     background-color: var(--clr-dark);
-    background-image: url(../img/services-bg.jpg);
+    background-image: url(../images/laptop.jpg);
     background-size: cover;
+    background-blend-mode: multiply;
     color: var(--clr-light);
     text-align: center;
 }
